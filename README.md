@@ -5,3 +5,5 @@ Controls/How to play:
 JUMP - space
 MOVE L/R - l/r arrow key
 MOVE UP/DOWN - up/down arrow key
+
+Playthrough: https://drive.google.com/file/d/1VM_iW-Lt46NQUivDeUl3IIJ604RDyrQN/view?usp=sharing
